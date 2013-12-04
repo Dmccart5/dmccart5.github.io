@@ -1,0 +1,87 @@
+@viewport {width:device-width; zoom:1;}
+
+body {
+	font-size:100%; 
+	font-family:sans-serif;
+	background-image: url(assets/textured_paper.png);
+	padding: 0em 2em;
+	
+	}
+	
+img {
+	max-width:100%
+	
+	}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family:serif; color:black
+	
+	}
+	
+p {
+	line-height:150%
+	
+	}
+	
+ul {
+	line-height:150%
+	
+	}	
+	
+header {
+	text-align:center
+	
+	}
+	
+footer {
+	clear:both;
+	font-size:80%
+	
+	}
+
+nav {
+	font-family:serif;
+	font-weight:bold;
+	font-size:125%;
+		
+		}
+			
+nav ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+	
+	}
+
+nav a {
+	display:block;
+	padding:1em;
+	border:3px solid #596573;
+	
+	
+	}
+
+	
+  
+@media only screen and (min-width:400px) {
+
+	nav {
+		float:left;
+		width:19%
+	
+		}
+		
+	main {
+		float:right;
+		width:75%
+	
+		}
+	
+	}
+		
+
+@media only screen and (min-width:800px) {
+    img {float:right; max-width:40%; margin:0 0 1em 2em;}
+    
+		}
+		

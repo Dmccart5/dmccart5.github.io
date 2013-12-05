@@ -1,4 +1,8 @@
 dmccart5.github.io
 ==================
 
-Home Page
+#Daniel McCarthy | University of Notre Dame
+
+##CAPP 30370: Intro to Web Development 
+
+
